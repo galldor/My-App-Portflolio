@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_library_app_button_name">Library App</string>
+    <string name="main_xyz_reader_button_name">XYZ Reader</string>
+    <string name="main_capstone_my_own_app_button_name">Capstone My Own App</string>
+    <string name="main_my_nanodegree_apps_text">My Nanodegree Apps!</string>
+</resources>
